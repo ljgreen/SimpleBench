@@ -1,3 +1,6 @@
+/*
+ * Cite from website: https://www.cnblogs.com/venow/archive/2012/11/22/2779667.html
+ */
 #include "threadpool.h"
 
 struct threadpool* threadpool_init(int thread_num, int queue_max_num)
