@@ -1,3 +1,6 @@
+/*
+ * Cite from website: https://www.cnblogs.com/venow/archive/2012/11/22/2779667.html
+ */
 #ifndef _THREADPOOL_H_
 #define _THREADPOOL_H_
 #include "global.h"
